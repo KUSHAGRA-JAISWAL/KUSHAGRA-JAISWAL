@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KUSHAGRA-JAISWAL&theme=onedark)](https://github.com/KUSHAGRA-JAISWAL/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGRA-JAISWAL)](https://github.com/KUSHAGRA-JAISWAL/github-readme-stats)
