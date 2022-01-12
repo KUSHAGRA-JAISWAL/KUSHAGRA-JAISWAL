@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=KUSHAGRA-JAISWAL)<br><br>
+<img src="https://i.imgur.com/JNxZDWU.gif" height=20.5px>![](https://komarev.com/ghpvc/?username=KUSHAGRA-JAISWAL)<br><br>
 ### Hi there i am Kshagra Jaiswal👋
 [![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUSHAGRA-JAISWAL&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGRA-JAISWAL)](https://github.com/KUSHAGRA-JAISWAL/github-readme-stats) <img src="https://i.imgur.com/JNxZDWU.gif" height=230px>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGRA-JAISWAL)](https://github.com/KUSHAGRA-JAISWAL/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KUSHAGRA-JAISWAL&theme=onedark)](https://github.com/KUSHAGRA-JAISWAL/github-profile-trophy)
