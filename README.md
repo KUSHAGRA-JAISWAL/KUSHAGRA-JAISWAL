@@ -1,5 +1,3 @@
-
-
 <img src="https://i.imgur.com/JNxZDWU.gif" height=21px>![](https://komarev.com/ghpvc/?username=KUSHAGRA-JAISWAL)<br><br>
 <div>
 <h1> Hi there i am Kushagra Jaiswal! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height=30px></h1>
@@ -13,6 +11,7 @@
 -  <img src="https://i.imgur.com/JHy2P93.png" height=24px>  Ask me about C & java.
 - <img src="https://i.imgur.com/IWNZlmP.png" height=18.5px> I am always avaliable on Discord.
 <br>
+
 ## Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=50px style="transform :translateY(11px);">
 
 **[<h3>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=30px style="transform :translateY(5px);">
