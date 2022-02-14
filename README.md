@@ -3,7 +3,7 @@
 <h1> Hi there i am Kushagra Jaiswal! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height=30px></h1>
 <img src="https://i.imgur.com/VjHSAKJ.png" width = 70%><br><br>
 
-# About Me  <img src="https://i.imgur.com/hKno5xG.png" height=35px width=36px>
+# About Me  <img src="https://i.imgur.com/pmj6huV.png" height=40px width=41px>
 
 -  <img src="https://i.imgur.com/6L2xojH.png" height=24px>  I'm a Programmer and Youtuber too.
 -  <img src="https://i.imgur.com/mZvuDcE.png" height=24px>  Loves Gaming, Designing and Video Editing.
@@ -23,7 +23,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSHAGRA-JAISWAL&line_height=40&hide_border=true&theme=default" alt=""><br>
 
-  # Connect With Me <img src="https://i.imgur.com/Nvdu5lP.gif" height=42px width=37px>
+  # Connect With Me <img src="https://i.imgur.com/Nvdu5lP.gif" height=42px width=39px>
 
 <a href="https://www.facebook.com/profile.php?id=100006733998438" target="blank"><img align="center" src="https://i.imgur.com/1KeUP8E.png" height="40"  /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kushagr23364901" target="blank"><img align="center" src="https://i.imgur.com/IUZJjdX.gif" height="40"  /></a>
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/kushagra-jaiswal-6a3845226/" target="blank"><img align="center" src="https://i.imgur.com/Ehv0wrV.gif" height="52"  /></a>
 <a href="https://www.instagram.com/kushagra_jaiswal_kush/?hl=en" target="blank"><img align="center" src="https://i.imgur.com/p0T2QqU.gif" height="40"  /></a>
 <br>
- # My Skills <img src="https://i.imgur.com/sb1EbvB.png" height=36px width=37px>
+ # My Skills <img src="https://i.imgur.com/sb1EbvB.png" height=40px width=42px>
 
 <img src="https://i.imgur.com/BKfhFJC.png" height=40px>
 <img src="https://i.imgur.com/L1SttSO.png" height=40px>
