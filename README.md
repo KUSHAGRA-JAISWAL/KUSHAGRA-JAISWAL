@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/JNxZDWU.gif" height=21px>![](https://komarev.com/ghpvc/?username=KUSHAGRA-JAISWAL)
 <div>
 <h1> Hi there i am Kushagra Jaiswal! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height=30px></h1>
-<img src="https://i.imgur.com/VjHSAKJ.png" width = 70%><br><br>
+<img src="https://i.imgur.com/VjHSAKJ.png" width = 100%><br><br>
 
 # About Me  <img src="https://i.imgur.com/pmj6huV.png" height=40px width=41px>
 
