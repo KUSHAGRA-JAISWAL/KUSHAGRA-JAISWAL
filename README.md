@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/JNxZDWU.gif" height=21px>![](https://komarev.com/ghpvc/?username=KUSHAGRA-JAISWAL)
 <div>
-<h1> Hi there i am Kushagra Jaiswal! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height=30px></h1>
+<h1> Hi there i am Kushagra Jaiswal!<img src="https://i.imgur.com/pu9FrWp.gif" height=45px></h1>
 <img src="https://i.imgur.com/VjHSAKJ.png" width = 90%><br><br>
 
 # About Me  <img src="https://i.imgur.com/pmj6huV.png" height=40px width=41px>
@@ -10,6 +10,7 @@
 -  <img src="https://i.imgur.com/R0us11Z.png" height=22px>  I’m currently Focusing on Web Develepment.
 -  <img src="https://i.imgur.com/JHy2P93.png" height=24px>  Ask me about C & java.
 - <img src="https://i.imgur.com/IWNZlmP.png" height=18.5px> I am always avaliable on Discord.
+-  <img src="https://i.imgur.com/Tlgd77p.png" height=22px> Contact me if you are facing any issue's releated to Windows.
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=50px style="transform :translateY(11px);">
 
 **[<h3>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=30px style="transform :translateY(5px);">
