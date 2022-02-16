@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/kushagra-jaiswal-6a3845226/" target="blank"><img align="center" src="https://i.imgur.com/Ehv0wrV.gif" height="52"  /></a>
 <a href="https://www.instagram.com/kushagra_jaiswal_kush/?hl=en" target="blank"><img align="center" src="https://i.imgur.com/p0T2QqU.gif" height="40"  /></a>
 <br>
- # My Skills <img src="https://i.imgur.com/sb1EbvB.png" height=40px width=40px>
+ # My Skills <img src="https://i.imgur.com/FsbGBtR.gif" height=42px width=44px>
 
 <img src="https://i.imgur.com/BKfhFJC.png" height=40px>
 <img src="https://i.imgur.com/L1SttSO.png" height=40px>
